@@ -1,2 +1,2 @@
-# shooping-street
+# shopping-street
 vue.js project
